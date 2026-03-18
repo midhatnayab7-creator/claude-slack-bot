@@ -58,7 +58,7 @@ Bot replies in Slack (in thread if @mentioned)
 
 ## Author
 
-**Midhat Nayab** — [GitHub](https://github.com/midhatnayab7-creator)
+**Midhat Nayab** — [GitHub](https://github.com/midhatnayab7-creator) | [LinkedIn](https://www.linkedin.com/in/midhat-nayab-25a6603a3) | [Email](mailto:midhatnayab7@gmail.com)
 
 ---
 
